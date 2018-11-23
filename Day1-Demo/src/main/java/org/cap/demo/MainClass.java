@@ -4,6 +4,8 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Hey! i need break!");
+		
 		SalesApp obj=new SalesApp();
 		obj.display();
 		
