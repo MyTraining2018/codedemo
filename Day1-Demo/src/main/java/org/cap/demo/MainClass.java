@@ -3,6 +3,10 @@ package org.cap.demo;
 public class MainClass {
 
 	public static void main(String[] args) {
+		
+		SalesApp obj=new SalesApp();
+		obj.display();
+		
 		System.out.println("Hello! Good Afternoon");
 
 		greetings();
