@@ -6,6 +6,12 @@ public class MainClass {
 		System.out.println("Hello! Good Afternoon");
 
 		greetings();
+		
+		String[] names= {"tom","jack","ram"};
+		for(String str:names)
+			System.out.println(str);
+		
+		
 	}
 	
 	public static void greetings() {
