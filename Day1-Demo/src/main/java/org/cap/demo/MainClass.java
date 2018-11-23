@@ -12,5 +12,10 @@ public class MainClass {
 		System.out.println("Welcome to GIT!");
 		System.out.println("Hi! Feeling Hungry!");
 	}
+	
+	
+	public void show() {
+		System.out.println("Show method implementation.....");
+	}
 
 }
